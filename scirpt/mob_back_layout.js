@@ -1,0 +1,1 @@
+document.getElementsByClassName("body")[0].style.height=window.innerHeight-149+'px';function fold(){document.getElementsByClassName("body")[0].style.height=window.innerHeight-149+'px';}

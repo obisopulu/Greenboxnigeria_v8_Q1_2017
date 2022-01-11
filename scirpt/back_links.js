@@ -1,0 +1,1 @@
+function linker(x){document.getElementsByTagName("iframe")[1].src=x+'.php';}
